@@ -9,5 +9,8 @@
             "email": "elislis19@yandex.ru"
         }
     ],
+    "bin": [
+        "bin/brain-games"
+    ],
     "require": {}
 }
